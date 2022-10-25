@@ -1,0 +1,58 @@
+{
+    "RuntimeGraphicsSettings": {
+        "Name": "RuntimeGraphicsSettings",
+        "Author": "Knah",
+        "RepoName": "ML-UniversalMods",
+        "DisplayAuthor": "Knah",
+        "Version": "0.2.2",
+        "Error": false,
+        "Download": [
+            {
+                "name": "RuntimeGraphicsSettings.dll",
+                "browser_download_url": "https://github.com/knah/ML-UniversalMods/releases/download/updates-2021-07-25/RuntimeGraphicsSettings.dll"
+            }
+        ]
+    },
+    "LocalPlayerPerfs": {
+        "Name": "LocalPlayerPerfs",
+        "Author": "Knah",
+        "RepoName": "ML-UniversalMods",
+        "DisplayAuthor": "Knah",
+        "Version": "1.0.2",
+        "Error": false,
+        "Download": [
+            {
+                "name": "LocalPlayersPerf.dll",
+                "browser_download_url": "https://github.com/knah/ML-UniversalMods/releases/download/updates-2021-07-25/LocalPlayerPrefs.dll"
+            }
+        ]
+    },
+    "CoreLimiter": {
+        "Name": "CoreLimiter",
+        "Author": "Knah",
+        "RepoName": "ML-UniversalMods",
+        "DisplayAuthor": "Knah",
+        "Version": "1.0.2",
+        "Error": false,
+        "Download": [
+            {
+                "name": "LocalPlayersPerf.dll",
+                "browser_download_url": "https://github.com/knah/ML-UniversalMods/releases/download/updates-2021-07-25/CoreLimiter.dll"
+            }
+        ]
+    },
+    "InsideTheBackroomsS": {
+        "Name": "CoreLimiter",
+        "Author": "Graves",
+        "RepoName": "inside-the-backrooms-devsdk",
+        "DisplayAuthor": "Graves",
+        "Version": "1.0.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "Backrooms.dll",
+                "browser_download_url": "https://github.com/spicebag/inside-the-backrooms-devsdk/releases/download/PR/Backrooms.dll"
+            }
+        ]
+    }
+}
