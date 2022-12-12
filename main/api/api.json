@@ -68,5 +68,19 @@
                 "browser_download_url": "https://github.com/bandademan/ITBDebugScreen/raw/main/ITBDebugMenu.dll"
             }
         ]
+    },
+        "MorePlayers": {
+        "Name": "MorePlayers",
+        "Author": "Mr. Monocle",
+        "RepoName": "ITBMorePlayers",
+        "DisplayAuthor": "Mr. Monocle",
+        "Version": "1.0.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "MorePlayers.dll",
+                "browser_download_url": "https://github.com/bandademan/ITBMorePlayers/raw/main/MorePlayers.dll"
+            }
+        ]
     }
 }
